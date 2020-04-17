@@ -1,0 +1,5 @@
+{
+	"greymatter": "../gray-matter",
+	"root": "../",
+	"originalFolder": "content/projects/project1", // -- If your index.md is located at 'content/projects/project1/index.md' 
+}
